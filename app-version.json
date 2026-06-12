@@ -4,5 +4,6 @@
   "notes": "Variants, barcode merging, report exports, invoice edit in cashier, finance filter fix",
   "build": "isolated-company-local-store",
   "updatedAt": "2026-06-06T00:00:00+03:00",
-  "note": "حذف وتعديل محلي فوري مع مزامنة لاحقة وعدم رجوع البيانات القديمة من Firebase"
+  "note": "حذف وتعديل محلي فوري مع مزامنة لاحقة وعدم رجوع البيانات القديمة من Firebase",
+  "name": "كاش توب"
 }

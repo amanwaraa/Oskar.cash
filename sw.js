@@ -1,4 +1,4 @@
-const CACHE_NAME = 'oscar-pwa-v32-light-logo';
+const CACHE_NAME = 'cashtop-pwa-v79-light-assets';
 const PRECACHE = [
   './',
   'index.html',

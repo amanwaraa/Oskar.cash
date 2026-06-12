@@ -1,7 +1,7 @@
 {
-  "name": "كاشير أوسكار",
-  "short_name": "أوسكار",
-  "description": "تطبيق كاشير ومخزون PWA مع مزامنة Firebase Realtime Database وربط ماسح محلي.",
+  "name": "كاش توب",
+  "short_name": "كاش توب",
+  "description": "تطبيق كاشير ومخزون كاش توب مع مزامنة Firebase.",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "index.html",
